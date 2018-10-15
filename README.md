@@ -1,2 +1,4 @@
 # WebHolding
-página web &lt;/html> estática 
+Página Web </html> estática.
+Browser.png describe visualmente el producto final.
+
